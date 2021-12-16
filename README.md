@@ -12,6 +12,8 @@ dashgo é o quarto projeto criado no chapter 4 da trilha de React do Ignite da R
 <br>
 <img src="home.png" alt="Tela de cadastro">
 <br>
+<img src="dashboard.png" alt="Dashboard">
+<br>
 
 ## 🛠 Tecnologias
 
