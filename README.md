@@ -34,13 +34,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/MarcelFeo/Primeiro-Projeto-Ignite.git
+https://github.com/MarcelFeo/ignite-rocketseat-dashgo.git
 
 # Entrar numa IDE de sua preferência 
 
-# Executar o servidor ou usar um puglin que criar um servidor
+# Acessar a pasta do projeto
+
+# Baixe as dependendências
+yarn
+
+# Execute o projeto
+yarn start
 
 ```
 
-Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
 ou em uma porta de sua preferência.
